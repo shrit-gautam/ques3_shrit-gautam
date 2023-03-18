@@ -22,6 +22,7 @@ int main(){
         }
     }
     printf("max is: %d",max);
+    prinf("hey");
 
 
 
